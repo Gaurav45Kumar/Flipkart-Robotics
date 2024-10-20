@@ -1,1 +1,2 @@
 # Flipkart-Robotics
+This project implements a Smart Vision Quality Control System using cost-effective technology, combining Raspberry Pi, OpenCV, Tesseract OCR, and TensorFlow MobileNet SSD for real-time image processing, text extraction, and object detection. The system is designed to be deployed in industrial settings for quality control, such as detecting defective products, reading expiration dates, and verifying product packaging.
